@@ -1,5 +1,5 @@
 python-telegram-bot
-yt-dlp>=2024.03.10
-moviepy==1.0.3
+yt-dlp
+moviepy
 numpy
-Pillow==9.5.0
+Pillow
